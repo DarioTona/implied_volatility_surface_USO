@@ -97,7 +97,11 @@ $$
 
 6. **Repeat** steps 2–5 until convergence or until reaching the maximum number of iterations, $N_{\text{iter}}$.
 
+<img width="838" height="636" alt="image" src="https://github.com/user-attachments/assets/340eaeb7-fe74-4341-a587-3d529ce549b3" />
 
-<img width="837" height="640" alt="image" src="https://github.com/user-attachments/assets/5393090b-4b9b-4848-8c7a-71a731d83fea" />
+**Sources**
 
+https://www.youtube.com/watch?v=h6fMYoig2Pg
+
+https://www.youtube.com/watch?v=g-efwWZZBvA&t=340s
 
