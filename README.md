@@ -83,7 +83,7 @@ $$
 - If **true**, stop and return $\sigma_n$.
 - If **false**, continue.
 
-4. **Compute the derivative w.r.t. volatility** (Vega / gradient):
+4. **Compute the derivative w.r.t. volatility**:
 
 $$
 \frac{\partial \mathcal{L}}{\partial \sigma}(\sigma_n).
